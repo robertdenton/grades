@@ -20,16 +20,6 @@
 		h1{margin-bottom:0px;}
 		h5{margin-top: 3px;}
 		</style>
-		<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		  ga('create', 'UA-10399124-1', 'cuindependent.com');
-		  ga('send', 'pageview');
-
-		</script>
 	</head>
 	<body id="dt_example">
 		<div id="container">
@@ -37,8 +27,8 @@
 			<h1 style="margin-top:0px"><a href="http://www.cuindependent.com">CU Independent</a> Grades Database</h1>
 			<h5>Produced by <a href="http://www.robertrdenton.com">Rob Denton</a></h5>
 			<p>Below is a searchable, sortable representation of every class at CU during the Spring 2013 and Fall 2013 semesters and its grade distribution, revealing what percent of the class got an A, B, C or D/F.</p>
-			<p>All of this data is publically accessible through the <a href="www.colorado.edu/pba/‎">CU Office of Planning and Budget Analysis</a> <a href="www.colorado.edu/pba/course/gradesintro.htm">here</a>.</p>
-			<p><b>Note: This is a considerable amount of data, please give it a second to fully load.</b></p>
+			<p>All of this data is publicly accessible through the <a href="www.colorado.edu/pba/‎">CU Office of Planning and Budget Analysis</a> <a href="www.colorado.edu/pba/course/gradesintro.htm">here</a>.</p>
+			<p><b>Note: This is a considerable amount of data, please give it a second to load.</b></p>
 			<div id="demo">
 				<table cellpadding="0" cellspacing="0" border="0" class="display" id="example" width="100%">
 					<thead>
